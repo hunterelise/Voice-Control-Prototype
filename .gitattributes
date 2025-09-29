@@ -1,10 +1,9 @@
-# Ignore Unity-generated files from language stats
 *.meta linguist-vendored
 *.unity linguist-vendored
 *.prefab linguist-vendored
 *.mat linguist-vendored
 *.asset linguist-vendored
+
 *.shader linguist-vendored
 
-# Explicitly count C# scripts
 *.cs linguist-detectable=true
