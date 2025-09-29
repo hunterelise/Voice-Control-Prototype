@@ -4,6 +4,8 @@
 *.mat linguist-vendored
 *.asset linguist-vendored
 
+"Assets/TextMesh Pro/Shaders/*" linguist-vendored
 *.shader linguist-vendored
+*.cginc linguist-vendored
 
 *.cs linguist-detectable=true
